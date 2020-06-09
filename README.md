@@ -1,2 +1,2 @@
 # Jam-Kekacauan
-Jam Kekacauan adalah penghitung waktu interval yang menghasilkan interval waktu acak di bawah distribusi Pareto dengan parameter yang diberikan oleh pengguna dan mendukung urutan nomor acak benar.
+Jam Kekacauan nä usj leuk uktu xsjodz oede ja aijedthayfi zvöaus idjä parametr tanxf Pareto distribjusjõn:cas xsjodz wegä iicetcüb änm iicetcüb cujutsag.
